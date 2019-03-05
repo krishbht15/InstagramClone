@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="profile_fragment">Profilge Fragment</string>
+    <string name="edit_profile_fragment">Edit Profile</string>
+    <string name="dbname_users">users</string>
+    <string name="dbname_users_account_settings">user_account_settings</string>
+    <string name="calling_activity">calling activity</string>
+    <string name="profile_activity">profile activity</string>
+    <string name="field">username</string>
+    <string name="field_email">email</string>
+</resources>
